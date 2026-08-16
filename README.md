@@ -104,8 +104,11 @@ It can be convert the picture into 3d model design
 ### [Python with AIML intern] · [Code bind technologies ]
 📅 [15 days]
 
-`Skills:'(Ui&Ux Designer-6D28D9?style=flat-square) ![Html,Css,Js](https://img.shields.io/badge/-html-6D28D9?style=flat-square) ![](https://img.shields.io/badge/-Skill-?style=flat-square)
+`Skills:'
+[](https://img.shields.io/badge/-Html,Css,Js-6D28D9?style=flat-square) !
+[](https://img.shields.io/badge/-Python,Mangodb-6D28D9?style=flat-square) !
 
+[](https://img.shields.io/badge/-Ui&Ux Desiger-6D28D9?style=flat-square) !
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🏆 Achievements
