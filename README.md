@@ -34,8 +34,8 @@
 
 ```txt
 const engineer = {
-    role: "Software Engineer & AI/ML Enthusiast",
-    focus: ["Full-Stack Development", "Machine Learning", "Product Engineering"],
+    role: "Software Engineer & Ui&Ux designer",
+    focus: ["Full-Stack Development", "Machine Learning"],
     philosophy: "Build systems that are fast, elegant, and made to scale",
     currentlyExploring: "Applied AI, distributed systems, developer tooling",
 };
