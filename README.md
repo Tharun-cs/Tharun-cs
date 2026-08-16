@@ -1,16 +1,301 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tharun-cs/Tharun-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:5B21B6&height=220&section=header&text=Tharun%20C%20S&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Software+Engineer;AI+%2F+ML+Engineer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://img.shields.io/badge/B.E.-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF" />
+<img src="https://img.shields.io/badge/Location-India-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF" />
+
+<br/><br/>
+
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Tharun-cs"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Tharun-cs&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Tharun-cs?style=for-the-badge&color=6d28d9&labelColor=1a1025&logo=github" />
+<img src="https://img.shields.io/github/stars/Tharun-cs?style=for-the-badge&color=a78bfa&labelColor=1a1025&logo=github" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🪐 About Me
+
+```txt
+const engineer = {
+    role: "Software Engineer & AI/ML Enthusiast",
+    focus: ["Full-Stack Development", "Machine Learning", "Product Engineering"],
+    philosophy: "Build systems that are fast, elegant, and made to scale",
+    currentlyExploring: "Applied AI, distributed systems, developer tooling",
+};
+```
+
+- 🧠 Engineering-focused mindset with a strong foundation in **AI/ML** and **full-stack development**
+- ⚙️ I care about clean architecture, performance, and building products people actually use
+- 📈 Constantly leveling up — from systems design to model deployment
+- 🤝 Open to collaborating on impactful, well-engineered software
+
+<div align="center">
+
+**🎯 Open To:** `Software Engineering Roles` &nbsp;•&nbsp; `AI/ML Projects` &nbsp;•&nbsp; `Open Source Collaboration` &nbsp;•&nbsp; `Freelance / Internships`
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman&theme=dark" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Machine Learning | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
+| Deep Learning | ⭐⭐⭐☆☆ | Neural networks, CNNs/RNNs using TensorFlow / PyTorch |
+| NLP | ⭐⭐⭐☆☆ | Text processing, embeddings, transformer-based models |
+| Data Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, data visualization & statistical analysis |
+| MLOps | ⭐⭐☆☆☆ | Model deployment, experiment tracking, CI/CD for ML |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔹 Project One — [Add Project Name]</b></summary>
+<br/>
+
+[Add a 1–2 line description of the project and the problem it solves]
+
+| Aspect | Details |
+|---|---|
+| **Stack** | [e.g. React, Node.js, MongoDB] |
+| **Scale** | [e.g. Handles X requests/day] |
+| **Performance** | [e.g. Sub-200ms API response time] |
+| **Security** | [e.g. JWT auth, input validation] |
+| **Impact** | [e.g. Used by X users / solved Y problem] |
+| **Repository** | [Add repo link] |
+
+[Add a short professional write-up: your role, technical decisions, and outcome]
+
+</details>
+
+<details>
+<summary><b>🔹 Project Two — [Add Project Name]</b></summary>
+<br/>
+
+[Add a 1–2 line description]
+
+| Aspect | Details |
+|---|---|
+| **Stack** | [Add stack] |
+| **Scale** | [Add scale] |
+| **Performance** | [Add metric] |
+| **Security** | [Add measures] |
+| **Impact** | [Add impact] |
+| **Repository** | [Add repo link] |
+
+[Add project explanation]
+
+</details>
+
+<details>
+<summary><b>🔹 Project Three — [Add Project Name]</b></summary>
+<br/>
+
+[Add a 1–2 line description]
+
+| Aspect | Details |
+|---|---|
+| **Stack** | [Add stack] |
+| **Scale** | [Add scale] |
+| **Performance** | [Add metric] |
+| **Security** | [Add measures] |
+| **Impact** | [Add impact] |
+| **Repository** | [Add repo link] |
+
+[Add project explanation]
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 💼 Experience
+
+### [Add Job Title] · [Add Company Name]
+📅 [Add Date Range]
+
+[Add a short professional description of the role]
+
+**Scope of Work:**
+- [Add bullet point]
+- [Add bullet point]
+- [Add bullet point]
+
+`Skills:` ![](https://img.shields.io/badge/-Skill-6D28D9?style=flat-square) ![](https://img.shields.io/badge/-Skill-6D28D9?style=flat-square) ![](https://img.shields.io/badge/-Skill-6D28D9?style=flat-square)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| [Add achievement] | [Add details] |
+| [Add achievement] | [Add details] |
+| [Add achievement] | [Add details] |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📜 Certifications
+
+**AWS**
+<br/>
+`[Add AWS certification badges/links here]`
+
+**Oracle**
+<br/>
+`[Add Oracle certification badges/links here]`
+
+**NPTEL**
+<br/>
+`[Add NPTEL certification badges/links here]`
+
+**Cisco**
+<br/>
+`[Add Cisco certification badges/links here]`
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](#)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tharun-cs&show_icons=true&theme=radical&hide_border=true&bg_color=0D0417&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Tharun-cs&theme=radical&hide_border=true&background=0D0417&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-cs&layout=compact&theme=radical&hide_border=true&bg_color=0D0417&title_color=A78BFA&text_color=E9D5FF" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tharun-cs&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tharun-cs&theme=react-dark&hide_border=true&bg_color=0D0417&color=A78BFA&line=8B5CF6&point=E9D5FF" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tharun-cs/Tharun-cs/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced system design
+  - Applied machine learning & MLOps
+Building:
+  - Full-stack projects with production-grade architecture
+Exploring:
+  - Generative AI tooling and agentic workflows
+Open To:
+  - Software Engineering roles
+  - AI/ML collaborations
+  - Open source contributions
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun-cs)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Code with intention. Build with purpose."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2E1065,100:0F0524&height=120&section=footer" width="100%"/>
+
+</div>
