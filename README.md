@@ -41,7 +41,7 @@ const engineer = {
 };
 ```
 
-- 🧠 Engineering-focused mindset with a strong foundation in **AI/ML** and **full-stack development**
+- 🧠 Engineering-focused mindset with a strong foundation in **ui/ux designer** and **full-stack development**
 - ⚙️ I care about clean architecture, performance, and building products people actually use
 - 📈 Constantly leveling up — from systems design to model deployment
 - 🤝 Open to collaborating on impactful, well-engineered software
@@ -70,7 +70,7 @@ const engineer = {
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+**Ui/Ux Designer & Wordpress Developer **
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman&theme=dark" />
 
@@ -78,94 +78,31 @@ const engineer = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| Deep Learning | ⭐⭐⭐☆☆ | Neural networks, CNNs/RNNs using TensorFlow / PyTorch |
-| NLP | ⭐⭐⭐☆☆ | Text processing, embeddings, transformer-based models |
-| Data Analysis | ⭐⭐⭐⭐☆ | Pandas, NumPy, data visualization & statistical analysis |
-| MLOps | ⭐⭐☆☆☆ | Model deployment, experiment tracking, CI/CD for ML |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project One — [Add Project Name]</b></summary>
+<summary><b>🔹 Project One — Portfolio</b></summary>
 <br/>
 
-[Add a 1–2 line description of the project and the problem it solves]
-
-| Aspect | Details |
-|---|---|
-| **Stack** | [e.g. React, Node.js, MongoDB] |
-| **Scale** | [e.g. Handles X requests/day] |
-| **Performance** | [e.g. Sub-200ms API response time] |
-| **Security** | [e.g. JWT auth, input validation] |
-| **Impact** | [e.g. Used by X users / solved Y problem] |
-| **Repository** | [Add repo link] |
-
-[Add a short professional write-up: your role, technical decisions, and outcome]
 
 </details>
 
 <details>
-<summary><b>🔹 Project Two — [Add Project Name]</b></summary>
+<summary><b>🔹 Project Two — 3 Dify</b></summary>
 <br/>
 
-[Add a 1–2 line description]
-
-| Aspect | Details |
-|---|---|
-| **Stack** | [Add stack] |
-| **Scale** | [Add scale] |
-| **Performance** | [Add metric] |
-| **Security** | [Add measures] |
-| **Impact** | [Add impact] |
-| **Repository** | [Add repo link] |
-
-[Add project explanation]
+It can be convert the picture into 3d model design
 
 </details>
 
 <details>
-<summary><b>🔹 Project Three — [Add Project Name]</b></summary>
-<br/>
 
-[Add a 1–2 line description]
-
-| Aspect | Details |
-|---|---|
-| **Stack** | [Add stack] |
-| **Scale** | [Add scale] |
-| **Performance** | [Add metric] |
-| **Security** | [Add measures] |
-| **Impact** | [Add impact] |
-| **Repository** | [Add repo link] |
-
-[Add project explanation]
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 💼 Experience
 
-### [Add Job Title] · [Add Company Name]
-📅 [Add Date Range]
-
-[Add a short professional description of the role]
-
-**Scope of Work:**
-- [Add bullet point]
-- [Add bullet point]
-- [Add bullet point]
+### [Python with AIML intern] · [Code bind technologies ]
+📅 [15 days]
 
 `Skills:` ![](https://img.shields.io/badge/-Skill-6D28D9?style=flat-square) ![](https://img.shields.io/badge/-Skill-6D28D9?style=flat-square) ![](https://img.shields.io/badge/-Skill-6D28D9?style=flat-square)
 
@@ -177,9 +114,8 @@ const engineer = {
 
 | Recognition | Details |
 |---|---|
-| [Add achievement] | [Add details] |
-| [Add achievement] | [Add details] |
-| [Add achievement] | [Add details] |
+| [Programming in java silver model] | [NPTEL] |
+| [C and C++ 85%] | [IIT Bombay] |
 
 </div>
 
@@ -187,19 +123,11 @@ const engineer = {
 
 ## 📜 Certifications
 
-**AWS**
-<br/>
-`[Add AWS certification badges/links here]`
-
-**Oracle**
-<br/>
-`[Add Oracle certification badges/links here]`
-
 **NPTEL**
 <br/>
 `[Add NPTEL certification badges/links here]`
 
-**Cisco**
+**IIT BOMBAY**
 <br/>
 `[Add Cisco certification badges/links here]`
 
