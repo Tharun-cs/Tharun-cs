@@ -105,10 +105,9 @@ It can be convert the picture into 3d model design
 📅 [15 days]
 
 `Skills:'
-[](https://img.shields.io/badge/-Html,Css,Js-6D28D9?style=flat-square) !
-[](https://img.shields.io/badge/-Python,Mangodb-6D28D9?style=flat-square) !
-
-[](https://img.shields.io/badge/-Ui&Ux Desiger-6D28D9?style=flat-square) !
+[](https://img.shields.io/badge/-Html,Css,Js-6D28D9?style=flat-square)!
+[](https://img.shields.io/badge/-Python,Mangodb-6D28D9?style=flat-square)!
+[](https://img.shields.io/badge/-Ui&Ux Desiger-6D28D9?style=flat-square)!
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🏆 Achievements
