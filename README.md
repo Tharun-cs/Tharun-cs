@@ -1,234 +1,223 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Tharun D Header" />
+</p>
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:5B21B6&height=220&section=header&text=Tharun%20D.&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CSE%20Undergrad&descAlignY=58&descSize=18" width="100%"/>
-
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;B.E.+Computer+Science+%26+Engineering;UI%2FUX+Designer+%26+Web+Enthusiast;Passionate+about+AI+%26+Machine+Learning" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Education & Location Badges -->
-  <img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF" />
-  <img src="https://img.shields.io/badge/Year-3rd%20Year-5B21B6?style=for-the-badge&logo=bookmeter&logoColor=E9D5FF" />
-  <img src="https://img.shields.io/badge/College-Sree%20Sakthi%20Engineering%20College-4C1D95?style=for-the-badge&logo=school&logoColor=E9D5FF" />
-  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20Tamil%20Nadu%2C%20India-3B0764?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF" />
-
-  <br/><br/>
-
-  <!-- Quick Action & Connect Badges -->
-  <a href="https://portfolio-kappa-teal-73.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/tharun-d-b84b56364/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tharund448@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tharund448@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://portfolio-kappa-teal-73.vercel.app/static/docs/Tharun_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download_CV-5B21B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-  </a>
+<p align="center">
   <a href="https://github.com/Tharun-cs">
-    <img src="https://img.shields.io/badge/GitHub-Tharun--cs-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Tharun%20D%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20UI%2FUX%20Designer%20%F0%9F%92%BB;Passionate%20about%20AI%20%26%20Machine%20Learning%20%F0%9F%A4%96;Turning%20creative%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
+</p>
 
-  <br/><br/>
+<p align="center">
+  <a href="https://linkedin.com/in/tharun-d-b84b56364" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-kappa-teal-73.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:tharund448@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-kappa-teal-73.vercel.app/static/docs/Tharun_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_CV-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Tharun-cs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+</p>
 
-  <!-- Profile Metrics -->
-  <img src="https://komarev.com/ghpvc/?username=Tharun-cs&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Tharun-cs?style=for-the-badge&color=6d28d9&labelColor=1a1025&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Tharun-cs?style=for-the-badge&color=a78bfa&labelColor=1a1025&logo=github" alt="Stars" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tharun-cs&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p>
 
-</div>
+---
 
-<br/>
+<h2 align="center">🔴 About Me</h2>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+</p>
 
-## 🪐 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+</p>
 
-```javascript
-const tharun = {
-    name: "Tharun D.",
-    education: {
-        degree: "B.E. Computer Science and Engineering",
-        department: "Computer Science and Engineering",
-        year: "3rd Year",
-        college: "Sree Sakthi Engineering College",
-        location: "Coimbatore, Tamil Nadu, India"
-    },
-    careerGoal: "To become a skilled full-stack developer",
-    interests: ["Web Development", "UI/UX Design", "Artificial Intelligence", "Machine Learning", "Wordpress Development"],
-    philosophy: "Build creative projects, learn new technologies, and craft intuitive user experiences"
-};
-```
+<p align="center">
+  Hey! I'm <b>Tharun D.</b>, a passionate <b>Computer Science Engineering student & developer</b> at <b>Sree Sakthi Engineering College</b> based in <b>Coimbatore, Tamil Nadu, India</b>.<br />
+  I specialize in architecting responsive full-stack web applications, crafting intuitive UI/UX experiences, and deploying machine learning solutions to solve practical real-world problems.
+</p>
 
-I'm a Computer Science Engineering student interested in web development, UI/UX design, Artificial Intelligence, and Machine Learning. I enjoy building creative projects and learning new technologies.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Year-3rd_Year-111111?style=flat-square" alt="Year" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_UI%2FUX-DC2626?style=flat-square" alt="Focus" />
+</p>
 
-- 🎓 **Education**: 3rd Year B.E. in Computer Science and Engineering at **Sree Sakthi Engineering College**.
-- 📍 **Location**: Coimbatore, Tamil Nadu, India.
-- 🎯 **Career Goal**: To become a skilled full-stack developer.
-- 💡 **Passions**: Web development, UI/UX design, Artificial Intelligence, and Machine Learning.
+<p align="center">
+  💬 <b>Let's Discuss:</b> Python, JavaScript, HTML, CSS, UI/UX Design, MongoDB, REST APIs, Git & Modern Web Architecture.<br />
+  ⚡ <b>Philosophy:</b> <i>"I love turning creative ideas and design concepts into fully deployed production software!"</i>
+</p>
 
-<div align="center">
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🔭 Flagship Project</h4>
+  <p><a href="https://portfolio-kappa-teal-73.vercel.app/" target="_blank"><b>Solvex — Smart Education App</b></a><br /><sub>Intelligent Learning Tools & Student Workflows</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Active Deep Dives</h4>
+  <p><b>Full-Stack Development</b><br /><sub>Python, REST APIs & UI/UX Systems in Figma</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🎯 Career Goal</h4>
+  <p><b>Full-Stack Developer</b><br /><sub>Crafting High-Performance User Experiences</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤝 Collaboration</h4>
+  <p><b>Web, UI/UX & AI/ML</b><br /><sub>Open to exciting new projects & internships</sub></p>
+</td>
+</tr>
+</table>
 
-**🎯 Open To:** `Full-Stack Development Internships` &nbsp;•&nbsp; `Frontend / UI/UX Roles` &nbsp;•&nbsp; `Open Source Collaboration`
+---
 
-</div>
+<h2 align="center">🔴 Featured Project Spotlight</h2>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>💡 Solvex — Smart Education App</h3>
+  <p><i>An innovative smart education platform designed to assist students with intuitive learning tools, intelligent workflow automation, and enhanced academic problem solving.</i></p>
+  <br />
+  <p>
+    <a href="https://portfolio-kappa-teal-73.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/Tharun-cs" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
-## 🛠️ Skills & Technologies
+---
 
-<div align="center">
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-### 💻 Programming Languages
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js&theme=dark" alt="Programming Languages" />
-</a>
+<p align="center"><b>Core Programming Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" width="100%" style="max-width: 320px;" alt="Languages" />
+  </a>
+</p>
 
-<br/><br/>
+<p align="center"><b>Frontend & UI/UX Design</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma&theme=dark" width="100%" style="max-width: 320px;" alt="Frontend and Design" />
+  </a>
+</p>
 
-### 🎨 Frontend Skills & Design
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,figma&theme=dark" alt="Frontend & UI/UX" />
-</a>
+<p align="center"><b>Backend & Databases</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,mongodb&theme=dark" width="100%" style="max-width: 250px;" alt="Backend and Databases" />
+  </a>
+</p>
 
-<br/><br/>
+<p align="center"><b>Tools, Version Control & Workflow</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" width="100%" style="max-width: 320px;" alt="Tools and Version Control" />
+  </a>
+</p>
 
-### ⚙️ Backend Skills & Database
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,mongodb&theme=dark" alt="Backend & Database" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=EF4444" alt="JavaScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=EF4444" alt="MongoDB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=EF4444" alt="Figma" />
+</p>
 
-<br/><br/>
+---
 
-### 🧰 Tools & Technologies
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Tools" />
-</a>
+<h2 align="center">📊 GitHub Analytics & Activity</h2>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tharun-cs&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tharun-cs&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tharun-cs&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+</p>
 
-| Category | Skills & Tools |
-|:---|:---|
-| **Programming Languages** | Python, JavaScript |
-| **Frontend Skills** | HTML, CSS, UI/UX Design |
-| **Backend Skills** | Python |
-| **Database Skills** | MongoDB |
-| **Tools & Technologies** | Git, GitHub, Figma |
+---
 
-</div>
+<h2 align="center">⚡ Contribution Journey</h2>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</p>
 
-## 🚀 Projects
+---
 
-<details open>
-<summary><b>💡 Solvex — Smart Education App</b> <i>(In Development)</i></summary>
-<br/>
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
 
-A smart education platform focused on assisting students through intelligent learning workflows, clean user experience, and modern technology.
+<p align="center"><i>Whether you want to discuss full-stack projects, UI/UX design, or explore internship and collaboration opportunities — my inbox is always open!</i></p>
 
-| Aspect | Details |
-|---|---|
-| **Status** | 🚧 In Development |
-| **Focus** | Smart Education & Student Learning Tools |
-| **Technologies** | Python, UI/UX Design (Figma), Modern Web Development |
-| **Goal** | Provide an intuitive and accessible educational platform |
+<table border="0" align="center">
+<tr>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.linkedin.com/in/tharun-d-b84b56364/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  <br />
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://portfolio-kappa-teal-73.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Portfolio" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+  </a>
+  <br />
+  <sub><b>Projects &amp; Live Demos</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:tharund448@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
+</td>
+</tr>
+</table>
 
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🌐 Personal Portfolio</b></summary>
-<br/>
-
-Personal portfolio website presenting academic qualifications, technical skills, projects, and direct contact avenues.
-
-| Aspect | Details |
-|---|---|
-| **Live Site** | [portfolio-kappa-teal-73.vercel.app](https://portfolio-kappa-teal-73.vercel.app/) |
-| **Stack** | HTML, CSS, JavaScript, Python, MongoDB |
-| **Highlights** | Responsive interface, modern dark theme, particle effects, interactive project showcase |
-| **Repository** | [GitHub Profile](https://github.com/Tharun-cs) |
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Tharun-cs&show_icons=true&theme=radical&hide_border=true&bg_color=0D0417&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Tharun-cs&theme=radical&hide_border=true&background=0D0417&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tharun-cs&layout=compact&theme=radical&hide_border=true&bg_color=0D0417&title_color=A78BFA&text_color=E9D5FF" alt="Top Languages" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🎯 Current Focus
-
-```yaml
-Current Focus:
-  Building:
-    - Solvex — Smart Education App
-    - Full-stack web projects
-  Learning:
-    - Advanced full-stack development techniques
-    - Artificial Intelligence & Machine Learning applications
-    - UI/UX design systems in Figma
-  Career Goal:
-    - To become a skilled full-stack developer
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:tharund448@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tharund448@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/tharun-d-b84b56364/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Tharun_D-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://portfolio-kappa-teal-73.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://portfolio-kappa-teal-73.vercel.app/static/docs/Tharun_CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download_CV-6D28D9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
-</a>
-&nbsp;
-<a href="https://github.com/Tharun-cs">
-  <img src="https://img.shields.io/badge/GitHub-Tharun--cs-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-*"Code with intention. Build with purpose."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2E1065,100:0F0524&height=120&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
