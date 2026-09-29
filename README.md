@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF" />
   <img src="https://img.shields.io/badge/Year-3rd%20Year-5B21B6?style=for-the-badge&logo=bookmeter&logoColor=E9D5FF" />
   <img src="https://img.shields.io/badge/College-Sree%20Sakthi%20Engineering%20College-4C1D95?style=for-the-badge&logo=school&logoColor=E9D5FF" />
-  <img src="https://img.shields.io/badge/Location-Karur%2C%20Tamil%20Nadu%2C%20India-3B0764?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF" />
+  <img src="https://img.shields.io/badge/Location-Coimbatore%2C%20Tamil%20Nadu%2C%20India-3B0764?style=for-the-badge&logo=googlemaps&logoColor=E9D5FF" />
 
   <br/><br/>
 
@@ -58,7 +58,7 @@ const tharun = {
         department: "Computer Science and Engineering",
         year: "3rd Year",
         college: "Sree Sakthi Engineering College",
-        location: "Karur, Tamil Nadu, India"
+        location: "Coimbatore, Tamil Nadu, India"
     },
     careerGoal: "To become a skilled full-stack developer",
     interests: ["Web Development", "UI/UX Design", "Artificial Intelligence", "Machine Learning", "Wordpress Development"],
@@ -69,7 +69,7 @@ const tharun = {
 I'm a Computer Science Engineering student interested in web development, UI/UX design, Artificial Intelligence, and Machine Learning. I enjoy building creative projects and learning new technologies.
 
 - 🎓 **Education**: 3rd Year B.E. in Computer Science and Engineering at **Sree Sakthi Engineering College**.
-- 📍 **Location**: Karur, Tamil Nadu, India.
+- 📍 **Location**: Coimbatore, Tamil Nadu, India.
 - 🎯 **Career Goal**: To become a skilled full-stack developer.
 - 💡 **Passions**: Web development, UI/UX design, Artificial Intelligence, and Machine Learning.
 
